@@ -58,11 +58,5 @@
 </p>
 
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/amol1027">amol1027</a></i></p>
